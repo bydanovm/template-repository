@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: задача, которую создают пользователи/тестировщики, нашедшие ошибку в работе
 title: ''
 labels: ''
 assignees: ''
